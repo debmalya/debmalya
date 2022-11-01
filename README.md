@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debmalya
+- 👋 Hi, I’m @deb
 - 👀 I’m interested in Java, Python, Golang, Rust, Algorithm
 - 🌱 I’m currently learning Algorithm
 - 💞️ I’m looking to collaborate on ...
